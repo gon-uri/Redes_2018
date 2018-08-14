@@ -2,8 +2,8 @@
 Vamos mantener un repositorio con material que resulte de utilidad para realizar los trabajos prácticos de la materia. Recuerden que además existe una [página web](http://materias.df.uba.ar/redesa2018c2/), donde pueden encontrar cronogramas, guías y otro tipo de material adicional.
 
 ### Sobre Git y Github
-**Git** es un sistema de control de versiones (VCS) muy utilizado, que permite ordenar y controlar el desarrollo de proyectos (en general proyectos grupales de programación). **Github** es una página que permite almacenar repositorios remotamente (en servidores), y acceder a ellos via internet.
-Les recomendamos algunos tutoriales de donde pueden aprender como funciona (hay *mucho* material en la web, pueden usar el que gusten):
+**Git** es un sistema de control de versiones (VCS) muy utilizado, que permite ordenar y controlar el desarrollo de proyectos (en general proyectos grupales de programación). **Github** es una página que permite almacenar repositorios de **Git** (proyectos) en servidores, y acceder a ellos en forma remota a traves de internet.
+Les recomendamos algunos tutoriales de donde pueden aprender como funciona este sistema (hay *mucho* material en la web, pueden usar el que gusten):
 
 * [Porque Git?](https://guides.github.com/introduction/git-handbook/) : Idea básica de Git.
 * [Workflow de Git](https://guides.github.com/introduction/flow/) : Explicación del sistema de Branches.
