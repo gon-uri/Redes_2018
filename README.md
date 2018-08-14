@@ -9,5 +9,5 @@ Les recomendamos algunos tutoriales de donde pueden aprender como funciona (hay 
 * [Resumen de Git](http://rogerdudler.github.io/git-guide/index.es.html)
 * [Usando Git](https://guides.github.com/introduction/git-handbook/)
 * [Usando Github](https://guides.github.com/activities/hello-world/)
-* [Machete de Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) [Machete 2](https://gist.github.com/davfre/8313299) y [Machete interactivo](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
+* [Machete de Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf), [Machete 2](https://gist.github.com/davfre/8313299) y [Machete interactivo](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
 * [Set Up Git](https://help.github.com/articles/set-up-git/)
