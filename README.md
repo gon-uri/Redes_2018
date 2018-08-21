@@ -14,4 +14,13 @@ Les recomendamos algunos tutoriales de donde pueden aprender como funciona este 
 
 
 ### Sobre Python y R
-Durante la cursada, será necesario adquirir conocimientos básicos de **Python** o **R** para poder realizar los trabajos prácticos.   
+Durante la cursada, será necesario adquirir conocimientos básicos de **Python** o **R** para poder realizar los trabajos prácticos.  Sabemos que el bagaje de conocimientos en programación dentro del curso es diverso, pero estamos convencidos que todos podrán realizar las prácticas requeridas si le dedican el tiempo suficiente. Les dejamos algunas suguerencias de tutoriales sobre **Python** (que por ceirto es el lenguaje que ambos ayudantes manejamos mejor, y por ende en el que mas los podemos ayudar) para que puedan ir calentando los motores si se sienten fuera de práctica:
+
+* [Python a paso moderado](https://www.programiz.com/python-programming/statement-indentation-comments) : Uno bastante completo. Avanza de a poco, pero avanaza.
+* [Python en 10 minutos](https://www.stavros.io/tutorials/python/) : Tutorial rápido, ideal para gente que se muda dede otro lenguaje.
+
+### Sobre NetworkX
+Es el paquete para trabajar con redes mas usado en **Python**. Existen otros buenos paquetes disponibles, como por ejemplo [igraph](http://igraph.org/python/), pero vamos a usar este ya que es el que está mejor atendido y tiene mayor cantidad de recursos disponibles en la web. Su fuerte no es la vizualización, pero tiene todas las funciones básicas que vamos a precisar para vizualizar. Les dejamos una serie de tutoriales apra que se vayan familiarizando con la libreria:
+
+* [TUTORIAL PRINCIPAL: Python from Luke to Yoda](https://github.com/gon-uri/Redes_2018/blob/master/Python%20from%20Luke%20to%20Yoda.ipynb) : Fue creado espacialemnte para este curso. Es el **tutorial más importante** ya que cubre aspectos básicos tanto de **Python** como de **NetworkX**.
+* [Documentación](https://networkx.github.io/documentation/latest/tutorial.html): Es el tutorial de la documentación oficial de la libreria.
