@@ -1,4 +1,4 @@
-![Foto_Universidad_en_Lucha](Redes_2018/P_20180824_171351_vHDR_On_HP.jpg)
+![Foto_Universidad_en_Lucha](https://github.com/gon-uri/Redes_2018/blob/master/P_20180824_171351_vHDR_On_HP.jpg)
 
 # Redes_2018
 Vamos mantener un repositorio con material que resulte de utilidad para realizar los trabajos prácticos de la materia. Recuerden que además existe una [página web](http://materias.df.uba.ar/redesa2018c2/), donde pueden encontrar cronogramas, guías y otro tipo de material adicional.
