@@ -20,6 +20,7 @@ Durante la cursada, será necesario adquirir conocimientos básicos de **Python*
 
 * [Python a paso moderado](https://www.programiz.com/python-programming/statement-indentation-comments) : Uno bastante completo. Avanza de a poco, pero avanaza.
 * [Python en 10 minutos](https://www.stavros.io/tutorials/python/) : Tutorial rápido, ideal para gente que se muda dede otro lenguaje.
+* [Python ejercicios](https://www.practicepython.org/) : Serie de 30 ejercicios que comienzan con lo básico y cubre desde lectura y escritura de archivos hasta scraping básico de html de paginas web. 
 
 ### Sobre NetworkX
 Es el paquete para trabajar con redes mas usado en **Python**. Existen otros buenos paquetes disponibles, como por ejemplo [igraph](http://igraph.org/python/), pero vamos a usar este ya que es el que está mejor atendido y tiene mayor cantidad de recursos disponibles en la web. Su fuerte no es la vizualización, pero tiene todas las funciones básicas que vamos a precisar para vizualizar. Les dejamos una serie de tutoriales apra que se vayan familiarizando con la libreria:
