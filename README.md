@@ -1,4 +1,4 @@
-![Foto_Universidad_en_Lucha](https://github.com/gon-uri/Redes_2018/blob/master/Foto_recortada.jpg)
+![Foto_Universidad_en_Lucha](https://github.com/gon-uri/Redes_2018/blob/master/Fotos/Foto_recortada.jpg)
 
 # Redes_2018
 Vamos mantener un repositorio con material que resulte de utilidad para realizar los trabajos prácticos de la materia. Recuerden que además existe una [página web](http://materias.df.uba.ar/redesa2018c2/), donde pueden encontrar cronogramas, guías y otro tipo de material adicional.
