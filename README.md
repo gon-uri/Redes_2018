@@ -1,3 +1,8 @@
+### TP2:
+* **Análisis de vulnerabilidad** Para el gráfico correspondiente a la figura 3 del trabajo de Zotenko, los criterios de remoción de nodos que deben incluir en el trabajo son: Random, Degree, Betweenness y Eigenvalue. Si quieren agregar algún otro criterio, pueden hacerlo, pero no es necesario.
+* **Entrega** Recuerden que la fecha límite para entregar el trabajo práctico es el Miercoles 17 de Octubre (antes de la clase). Deberán enviar el TP escrito (y los codigos en uno o varios archivos extra) por correo a ambos docentes de la práctica, con el asunto 'TC2 Redes Complejas - Grupo # - Apellido, Apellido, Apellido'.
+
+
 ![Foto_Universidad_en_Lucha](https://github.com/gon-uri/Redes_2018/blob/master/Fotos/Foto_recortada.jpg)
 
 # Redes_2018
