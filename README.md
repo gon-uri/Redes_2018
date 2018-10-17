@@ -1,6 +1,7 @@
 ### Guia4
 Codigo para calcular modularidad modificado:
 
+```python
 import igraph as igraph
 import networkx as nx
 import time
@@ -18,7 +19,7 @@ def calculate_infomap(np_adj_list, method="infomap"):
     print("Duración: {}s".format(time.time()-t0))
            
     return labels
-
+```
 
 ### TP2:
 * **Análisis de vulnerabilidad** Para el gráfico correspondiente a la figura 3 del trabajo de Zotenko, los criterios de remoción de nodos que deben incluir en el trabajo son: Random, Degree, Betweenness y Eigenvalue. Si quieren agregar algún otro criterio, pueden hacerlo, pero no es necesario.
