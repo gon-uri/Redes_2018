@@ -1,4 +1,11 @@
 ### Guia4
+
+Bibliografia sobre algunos metodos de comunidad:
+[Louvain](https://arxiv.org/pdf/0803.0476.pdf)
+[Fast greedy](https://arxiv.org/pdf/cond-mat/0408187.pdf)
+[Infomap](http://www.mapequation.org/)
+
+
 Codigo para calcular modularidad modificado:
 
 ```python
