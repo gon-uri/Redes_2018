@@ -17,9 +17,10 @@ Codigo para calcular modularidad utilizando *r-igraph*:
 ```
 import networkx as nx
 import rpy2.robjects as robjects
+import os
 
 def community(nxG, algorithm, fig_name = "G"):
-    """
+    '''
     In:
         nxG: grafo de networkx.
         algorithm: string, entre las siguientes opciones: 
@@ -31,7 +32,7 @@ def community(nxG, algorithm, fig_name = "G"):
     Out:
         labels: numpy array con la pertenencia de cada nodo al cluster.
     
-    """
+    '''
     gml_file_name = "G.gml"
     fig_name += "_"+nxG.name+"_"+algorithm+".svg"
     nx.write_gml(nxG, gml_file_name)
