@@ -13,70 +13,7 @@ Codigo para calcular modularidad utilizando *r-igraph*:
 ** Instalar R
 ** Instalar igraph
 
-
-```
-import networkx as nx
-import rpy2.robjects as robjects
-import os
-
-def community(nxG, algorithm, fig_name = "G"):
-    '''
-    In:
-        nxG: grafo de networkx.
-        algorithm: string, entre las siguientes opciones: 
-            fast_greedy
-            edge_betweenness
-            louvain
-            infomap
-        fig_name: nombre de la figura que se genera al clsuterizar. Le agrega automaticamente el nombre del algoritmo usado y el nombre del grafo si lo tuviere
-    Out:
-        labels: numpy array con la pertenencia de cada nodo al cluster.
-    
-    '''
-    gml_file_name = "G.gml"
-    fig_name += "_"+nxG.name+"_"+algorithm+".svg"
-    nx.write_gml(nxG, gml_file_name)
-    
-    igG = robjects.r('''
-        f <- function(file, algorithm, fig_name){
-            require("igraph")     
-            
-            G <- read.graph(file, "gml")
-            #format = c("edgelist", "pajek", "ncol", "lgl", "graphml","dimacs", "graphdb", "gml", "dl"), ...)
-            
-            if(algorithm == "fast_greedy"){
-                c <- fastgreedy.community(G)
-                #c <- cluster_fast_greedy(G, merges = TRUE, modularity = TRUE, membership = TRUE)
-            }
-            
-            if(algorithm == "edge_betweenness"){
-                c <- edge.betweenness.community(G)
-                #c <- cluster_edge_betweenness(G,directed = FALSE,edge.betweenness = TRUE)
-            }
-            
-            if(algorithm == "louvain"){
-                c <- multilevel.community(G)
-                #c <- cluster_louvain(G)
-            }
-            
-            if(algorithm == "infomap"){
-                #c <- cluster_infomap(G)
-                c <- infomap.community(G)
-            }
-            
-            svg(fig_name)
-            plot(c, G)
-            dev.off()
-            
-            return(membership(c))
-        }
-    ''')
-    
-    labels = igG(gml_file_name, algorithm, fig_name)
-    os.remove(gml_file_name)
-    return np.array(labels)
-```
-
+Busquen el codigo en la jupyter notebook de TPC_3 llamada __comunidades_con_igraph__
 
 Codigo para calcular modularidad utilizando *python-igraph*:
 
