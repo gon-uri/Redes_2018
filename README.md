@@ -1,3 +1,6 @@
+### Atención - novedad:
+Para aquellos grupos que estaban usando los algoritmos de clustering a traves de **rpy2**: Como charlamos la clase pasada, el orden de las etiquetas que devolvía el codigo **comunidades_con_igraph.ipynb** era desconocido (tenía que ver con el orden que le da a los nodos r-igraph). Por este motivo Agus modificó el codigo de manera que ahora devuelva un diccionario. Esta en el mismo archivo **comunidades_con_igraph.ipynb**. Saludos!
+
 ### Guia4
 
 Bibliografia sobre algunos metodos de comunidad:
