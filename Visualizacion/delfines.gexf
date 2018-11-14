@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="gender" type="string" />
+      <attribute id="1" title="loc_clus" type="double" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>14/11/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Beak" label="Beak">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="Beescratch" label="Beescratch">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </node>
+      <node id="Bumper" label="Bumper">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </node>
+      <node id="CCL" label="CCL">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="Cross" label="Cross">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="DN16" label="DN16">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </node>
+      <node id="DN21" label="DN21">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.5333333333333333" />
+        </attvalues>
+      </node>
+      <node id="DN63" label="DN63">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </node>
+      <node id="Double" label="Double">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.26666666666666666" />
+        </attvalues>
+      </node>
+      <node id="Feather" label="Feather">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.5238095238095238" />
+        </attvalues>
+      </node>
+      <node id="Fish" label="Fish">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.4" />
+        </attvalues>
+      </node>
+      <node id="Five" label="Five">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Fork" label="Fork">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Gallatin" label="Gallatin">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </node>
+      <node id="Grin" label="Grin">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.25757575757575757" />
+        </attvalues>
+      </node>
+      <node id="Haecksel" label="Haecksel">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.23809523809523808" />
+        </attvalues>
+      </node>
+      <node id="Hook" label="Hook">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.6" />
+        </attvalues>
+      </node>
+      <node id="Jet" label="Jet">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.2222222222222222" />
+        </attvalues>
+      </node>
+      <node id="Jonah" label="Jonah">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.5238095238095238" />
+        </attvalues>
+      </node>
+      <node id="Knit" label="Knit">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </node>
+      <node id="Kringel" label="Kringel">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.1388888888888889" />
+        </attvalues>
+      </node>
+      <node id="MN105" label="MN105">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="0.5333333333333333" />
+        </attvalues>
+      </node>
+      <node id="MN23" label="MN23">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="MN60" label="MN60">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="MN83" label="MN83">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.5333333333333333" />
+        </attvalues>
+      </node>
+      <node id="Mus" label="Mus">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.6666666666666666" />
+        </attvalues>
+      </node>
+      <node id="Notch" label="Notch">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.6666666666666666" />
+        </attvalues>
+      </node>
+      <node id="Number1" label="Number1">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.4" />
+        </attvalues>
+      </node>
+      <node id="Oscar" label="Oscar">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Patchback" label="Patchback">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </node>
+      <node id="PL" label="PL">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Quasi" label="Quasi">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ripplefluke" label="Ripplefluke">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="Scabs" label="Scabs">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="Shmuddel" label="Shmuddel">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="SMN5" label="SMN5">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SN100" label="SN100">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.047619047619047616" />
+        </attvalues>
+      </node>
+      <node id="SN4" label="SN4">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.23636363636363636" />
+        </attvalues>
+      </node>
+      <node id="SN63" label="SN63">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.2857142857142857" />
+        </attvalues>
+      </node>
+      <node id="SN89" label="SN89">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SN9" label="SN9">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </node>
+      <node id="SN90" label="SN90">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="0.6" />
+        </attvalues>
+      </node>
+      <node id="SN96" label="SN96">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="Stripes" label="Stripes">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.23809523809523808" />
+        </attvalues>
+      </node>
+      <node id="Thumper" label="Thumper">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </node>
+      <node id="Topless" label="Topless">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3090909090909091" />
+        </attvalues>
+      </node>
+      <node id="TR120" label="TR120">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="TR77" label="TR77">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.4" />
+        </attvalues>
+      </node>
+      <node id="TR82" label="TR82">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="TR88" label="TR88">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="TR99" label="TR99">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.23809523809523808" />
+        </attvalues>
+      </node>
+      <node id="Trigger" label="Trigger">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.24444444444444444" />
+        </attvalues>
+      </node>
+      <node id="TSN103" label="TSN103">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </node>
+      <node id="TSN83" label="TSN83">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Upbang" label="Upbang">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.38095238095238093" />
+        </attvalues>
+      </node>
+      <node id="Vau" label="Vau">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Wave" label="Wave">
+        <attvalues>
+          <attvalue for="0" value="NA" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Web" label="Web">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3611111111111111" />
+        </attvalues>
+      </node>
+      <node id="Whitetip" label="Whitetip">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Zap" label="Zap">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Zig" label="Zig">
+        <attvalues>
+          <attvalue for="0" value="m" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Zipfel" label="Zipfel">
+        <attvalues>
+          <attvalue for="0" value="f" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Beak" target="Fish" />
+      <edge id="1" source="Beak" target="Grin" />
+      <edge id="2" source="Beak" target="Haecksel" />
+      <edge id="3" source="Beak" target="SN9" />
+      <edge id="4" source="Beak" target="SN96" />
+      <edge id="5" source="Beak" target="TR77" />
+      <edge id="6" source="Beescratch" target="Jet" />
+      <edge id="7" source="Beescratch" target="Knit" />
+      <edge id="8" source="Beescratch" target="Notch" />
+      <edge id="9" source="Beescratch" target="Number1" />
+      <edge id="10" source="Beescratch" target="Oscar" />
+      <edge id="11" source="Beescratch" target="SN100" />
+      <edge id="12" source="Beescratch" target="SN90" />
+      <edge id="13" source="Beescratch" target="Upbang" />
+      <edge id="14" source="Bumper" target="Fish" />
+      <edge id="15" source="Bumper" target="SN96" />
+      <edge id="16" source="Bumper" target="Thumper" />
+      <edge id="17" source="Bumper" target="Zipfel" />
+      <edge id="18" source="CCL" target="Double" />
+      <edge id="19" source="CCL" target="Grin" />
+      <edge id="20" source="CCL" target="Zap" />
+      <edge id="21" source="Cross" target="Trigger" />
+      <edge id="22" source="DN16" target="Feather" />
+      <edge id="23" source="DN16" target="Gallatin" />
+      <edge id="24" source="DN16" target="Wave" />
+      <edge id="25" source="DN16" target="Web" />
+      <edge id="26" source="DN21" target="Feather" />
+      <edge id="27" source="DN21" target="Gallatin" />
+      <edge id="28" source="DN21" target="Jet" />
+      <edge id="29" source="DN21" target="Upbang" />
+      <edge id="30" source="DN21" target="Wave" />
+      <edge id="31" source="DN21" target="Web" />
+      <edge id="32" source="DN63" target="Knit" />
+      <edge id="33" source="DN63" target="Number1" />
+      <edge id="34" source="DN63" target="PL" />
+      <edge id="35" source="DN63" target="SN9" />
+      <edge id="36" source="DN63" target="Upbang" />
+      <edge id="37" source="Double" target="Kringel" />
+      <edge id="38" source="Double" target="Oscar" />
+      <edge id="39" source="Double" target="SN4" />
+      <edge id="40" source="Double" target="Topless" />
+      <edge id="41" source="Double" target="Zap" />
+      <edge id="42" source="Feather" target="Gallatin" />
+      <edge id="43" source="Feather" target="Jet" />
+      <edge id="44" source="Feather" target="Ripplefluke" />
+      <edge id="45" source="Feather" target="SN90" />
+      <edge id="46" source="Feather" target="Web" />
+      <edge id="47" source="Fish" target="Patchback" />
+      <edge id="48" source="Fish" target="SN96" />
+      <edge id="49" source="Fish" target="TR77" />
+      <edge id="50" source="Five" target="Trigger" />
+      <edge id="51" source="Fork" target="Scabs" />
+      <edge id="52" source="Gallatin" target="Jet" />
+      <edge id="53" source="Gallatin" target="Ripplefluke" />
+      <edge id="54" source="Gallatin" target="SN90" />
+      <edge id="55" source="Gallatin" target="Upbang" />
+      <edge id="56" source="Gallatin" target="Web" />
+      <edge id="57" source="Grin" target="Hook" />
+      <edge id="58" source="Grin" target="MN83" />
+      <edge id="59" source="Grin" target="Scabs" />
+      <edge id="60" source="Grin" target="Shmuddel" />
+      <edge id="61" source="Grin" target="SN4" />
+      <edge id="62" source="Grin" target="SN63" />
+      <edge id="63" source="Grin" target="SN9" />
+      <edge id="64" source="Grin" target="Stripes" />
+      <edge id="65" source="Grin" target="TR99" />
+      <edge id="66" source="Grin" target="TSN103" />
+      <edge id="67" source="Haecksel" target="Jonah" />
+      <edge id="68" source="Haecksel" target="MN83" />
+      <edge id="69" source="Haecksel" target="SN9" />
+      <edge id="70" source="Haecksel" target="Topless" />
+      <edge id="71" source="Haecksel" target="Vau" />
+      <edge id="72" source="Haecksel" target="Zap" />
+      <edge id="73" source="Hook" target="Kringel" />
+      <edge id="74" source="Hook" target="Scabs" />
+      <edge id="75" source="Hook" target="SN4" />
+      <edge id="76" source="Hook" target="SN63" />
+      <edge id="77" source="Hook" target="TR99" />
+      <edge id="78" source="Jet" target="MN23" />
+      <edge id="79" source="Jet" target="Mus" />
+      <edge id="80" source="Jet" target="Number1" />
+      <edge id="81" source="Jet" target="Quasi" />
+      <edge id="82" source="Jet" target="Web" />
+      <edge id="83" source="Jonah" target="Kringel" />
+      <edge id="84" source="Jonah" target="MN105" />
+      <edge id="85" source="Jonah" target="MN83" />
+      <edge id="86" source="Jonah" target="Patchback" />
+      <edge id="87" source="Jonah" target="Topless" />
+      <edge id="88" source="Jonah" target="Trigger" />
+      <edge id="89" source="Knit" target="PL" />
+      <edge id="90" source="Knit" target="Upbang" />
+      <edge id="91" source="Kringel" target="Oscar" />
+      <edge id="92" source="Kringel" target="SN100" />
+      <edge id="93" source="Kringel" target="SN63" />
+      <edge id="94" source="Kringel" target="Thumper" />
+      <edge id="95" source="Kringel" target="TR77" />
+      <edge id="96" source="Kringel" target="TR99" />
+      <edge id="97" source="MN105" target="Patchback" />
+      <edge id="98" source="MN105" target="Scabs" />
+      <edge id="99" source="MN105" target="SN4" />
+      <edge id="100" source="MN105" target="Topless" />
+      <edge id="101" source="MN105" target="Trigger" />
+      <edge id="102" source="MN60" target="SN100" />
+      <edge id="103" source="MN60" target="Topless" />
+      <edge id="104" source="MN60" target="Trigger" />
+      <edge id="105" source="MN83" target="Patchback" />
+      <edge id="106" source="MN83" target="Topless" />
+      <edge id="107" source="MN83" target="Trigger" />
+      <edge id="108" source="Mus" target="Notch" />
+      <edge id="109" source="Mus" target="Number1" />
+      <edge id="110" source="Notch" target="Number1" />
+      <edge id="111" source="Oscar" target="PL" />
+      <edge id="112" source="Oscar" target="TR77" />
+      <edge id="113" source="Patchback" target="SMN5" />
+      <edge id="114" source="Patchback" target="Stripes" />
+      <edge id="115" source="Patchback" target="Topless" />
+      <edge id="116" source="Patchback" target="Trigger" />
+      <edge id="117" source="Patchback" target="TSN103" />
+      <edge id="118" source="PL" target="SN96" />
+      <edge id="119" source="PL" target="TR77" />
+      <edge id="120" source="Ripplefluke" target="Zig" />
+      <edge id="121" source="Scabs" target="Shmuddel" />
+      <edge id="122" source="Scabs" target="SN4" />
+      <edge id="123" source="Scabs" target="SN63" />
+      <edge id="124" source="Scabs" target="SN9" />
+      <edge id="125" source="Scabs" target="Stripes" />
+      <edge id="126" source="Scabs" target="TR99" />
+      <edge id="127" source="Shmuddel" target="SN4" />
+      <edge id="128" source="Shmuddel" target="Thumper" />
+      <edge id="129" source="Shmuddel" target="TR88" />
+      <edge id="130" source="SN100" target="SN4" />
+      <edge id="131" source="SN100" target="SN89" />
+      <edge id="132" source="SN100" target="SN9" />
+      <edge id="133" source="SN100" target="Zap" />
+      <edge id="134" source="SN4" target="SN9" />
+      <edge id="135" source="SN4" target="Stripes" />
+      <edge id="136" source="SN4" target="Topless" />
+      <edge id="137" source="SN4" target="Zipfel" />
+      <edge id="138" source="SN63" target="Stripes" />
+      <edge id="139" source="SN63" target="Thumper" />
+      <edge id="140" source="SN63" target="TSN103" />
+      <edge id="141" source="SN63" target="Whitetip" />
+      <edge id="142" source="SN89" target="Web" />
+      <edge id="143" source="SN9" target="TSN103" />
+      <edge id="144" source="SN90" target="Upbang" />
+      <edge id="145" source="SN90" target="Web" />
+      <edge id="146" source="SN96" target="TR77" />
+      <edge id="147" source="SN96" target="TR99" />
+      <edge id="148" source="Stripes" target="TR120" />
+      <edge id="149" source="Stripes" target="TSN83" />
+      <edge id="150" source="Topless" target="TR99" />
+      <edge id="151" source="Topless" target="Trigger" />
+      <edge id="152" source="Topless" target="Zap" />
+      <edge id="153" source="TR120" target="TR88" />
+      <edge id="154" source="TR82" target="Web" />
+      <edge id="155" source="TR99" target="Trigger" />
+      <edge id="156" source="Trigger" target="Vau" />
+      <edge id="157" source="TSN83" target="Zipfel" />
+      <edge id="158" source="Upbang" target="Web" />
+    </edges>
+  </graph>
+</gexf>
