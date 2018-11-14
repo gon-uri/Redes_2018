@@ -1,0 +1,18 @@
+Para instalar gephi en window:
+1) Primero tienen que bajarse el isntalador desde la página oficial:
+https://gephi.org/users/download/
+2) Tienen que tener una verison de Java actualizada (1.8). Si no lo tienen, puede bajare la ultima versión desde la página oficial:
+https://www.java.com/es/download/
+3) Luego tienen que ejecutar el instalador que bajaron.
+4) Al abrir Gephi es muy probable que les tire un error como: 'Java 1.8 or higher not found' y se cierre.
+5) Uno empieza a perder la fé en la humanidad en general y en la computación en particular (acabamos de actualizar Java!).
+5) No desesperen, lo que gephi no sabe es como encontrar Java en su computador. 
+6) Para avisarle donde esta, tenemos que modificar el archivo gephi.conf que se encuentra por default en:
+C:\Program Files\Gephi-0.9.2\etc
+7) Agregamos una linea al file (con cualquier editor de texto) que diga lo siguiente:
+jdkhome="C:/Program Files (x86)/Java/jre1.8.0_191"
+8) Chequeen que ese es el directorio y la versión del Java que tienen ustedes es su computadora.
+9) Listo! ya pueden usar Gephi.
+
+10*) Si tienen placa de video, que cada vez que lo ejecuten, les tire un cartel de warning donde dice que no encuentra openGL.
+11*) Se puede usar igual, pero si quieren que use la placa de video bien, deberían en este caso actualizar los drivers de la placa.
