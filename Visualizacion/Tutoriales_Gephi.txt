@@ -1,0 +1,5 @@
+Les dejamos una lista de tutoriales para que exploren el programa:
+1) Video tutorial de Gephi bastante completo (es lo que intentamos repetir en la clase):
+https://www.youtube.com/watch?v=2FqM4gKeNO4
+2) Tutoriales de la documentación oficial. Están en forma de slides, pero se entienden bien:
+https://gephi.org/users/
