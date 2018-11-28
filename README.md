@@ -1,4 +1,16 @@
 ### Atención - novedad:
+Modificación de las fechas de entrega.
+
+_Miercoles 28/11_ - de 15 a 17
+    Clase de consulta para aquellos que deseen discutir cosas del trabajo final
+
+_Viernes 07/12_ - de 15 a 20  (en lugar del miercoles)
+   *Presentacion oral* de trabajo final
+
+_Miercoles 12/12_ ULTIMA FECHA para entregar el *informe escrito* del trabajo.
+
+
+### codigo comunidades con r-igraph
 Para aquellos grupos que estaban usando los algoritmos de clustering a traves de **rpy2**: Como charlamos la clase pasada, el orden de las etiquetas que devolvía el codigo **comunidades_con_igraph.ipynb** era desconocido (tenía que ver con el orden que le da a los nodos r-igraph). Por este motivo Agus modificó el codigo de manera que ahora devuelva un diccionario. Esta en el mismo archivo **comunidades_con_igraph.ipynb**. Saludos!
 
 ### Guia4
